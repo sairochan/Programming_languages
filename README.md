@@ -1,2 +1,2 @@
 # Programming_languages
-Language Proofs  
+Lambda-cal Proofs  
