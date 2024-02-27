@@ -1,2 +1,2 @@
 # Programming_languages
-Lambda-cal Proofs  
+Lambda calculus Proofs, correctness, semnatics  
