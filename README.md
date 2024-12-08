@@ -1,2 +1,4 @@
 # Programming_languages
-Lambda calculus Proofs, correctness, semnatics  
+
+Query and language correctness, semnatics, pretty
+Lambda calculus, Lists, Binary Tree Proofs  
